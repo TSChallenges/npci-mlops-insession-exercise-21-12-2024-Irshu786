@@ -7,11 +7,11 @@ import pandas as pd
 
 
 # Load model
-trained_model = #Todo
+trained_model = joblib.load(filename = "")
 
 
 # UI - Input componentsmodel/iris_model
-#Todo
+
 
 
 # UI - Output component
